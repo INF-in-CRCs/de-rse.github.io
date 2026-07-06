@@ -5,7 +5,7 @@ weight: 65
 ---
 # Young-RSE-Preis
 
-Der young-RSE-Preis wird jährlich auf der deRSE-Konferenz für den besten Beitrag einer neuen RSE-Person vergeben.
+Der young-RSE-Preis wird jährlich auf der deRSE-Konferenz für den besten Beitrag einer /s RSE in einer frühen Karrierephase.
 
 Jahr|Preisgeld|Name|Beitrag
 --- | ---: | --- | ---
