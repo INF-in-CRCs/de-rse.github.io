@@ -31,7 +31,7 @@ As software has become one of the primary research tools across all disciplines,
 
 <br/><br/>
 
-![RSEs bring both software engineering and research expertise.](https://sdruskat.net/assets/images/external/1_evolution_RSE_role_GenAI-RSE_role_adjacent_roles_today-compressed.png){: width="600px"}<br/><br/>**Figure 1:** *RSEs bring both software engineering and research expertise.*
+![RSEs bring both software engineering and research expertise.](/assets/img/blog/2026/1_evolution_RSE_role_GenAI-RSE_role_adjacent_roles_today-compressed.png){: width="600px"}<br/><br/>**Figure 1:** *RSEs bring both software engineering and research expertise.*
 
 <br/><br/>
 
