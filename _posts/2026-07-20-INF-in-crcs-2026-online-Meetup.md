@@ -68,3 +68,15 @@ This session featured presentations on Jupyter4NFDI Services by Vasundhara Shaw 
  DMPs & SMPs
 
 Moderated by Ron Dockhorn, 
+
+3. Parallel Session 2: Domain Clusters
+
+The second parallel session grouped participants by research domain to discuss domain-specific workflows, metadata standards, repositories, and collaboration with the corresponding NFDI consortia. Although many challenges were shared across disciplines, each community highlighted its own 
+requirements and priorities.
+
+The Physics group, moderated by Florian Goth, discussed custom simulation software, engineering models, and the integration of Electronic Lab Notebooks, while also reviewing previous NFDI Physical Sciences workshops. In Medicine and Psychology, moderated by Alvaro Aguilera, the discussion 
+focused on handling sensitive patient data under GDPR, knowledge graphs, and commonly used platforms such as REDCap, Neurocloud, Dataverse, OMERO, SODAR, and GraphDB. The Materials Science, Geosciences, and Engineering group, moderated by Hamza Oukili, exchanged experiences with scientific 
+software such as DuMux, MuMax, and MATSim, emphasizing that domain-specific repositories such as NOMAD and Kadi4Mat provide richer metadata and search capabilities than general-purpose repositories for many research applications. The Humanities and Linguistics group, moderated by Mercedes 
+Martinez-Bruera, discussed semantic metadata extraction, automation of legal consent forms, and the need for shared repositories of scripts and workflows. Finally, the Biology group explored imaging data management with OMERO and automated metadata extraction from Electronic Lab Notebooks.
+
+
