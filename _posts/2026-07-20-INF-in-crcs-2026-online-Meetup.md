@@ -32,3 +32,39 @@ integration, scientific visualization, and domain-specific software platforms. S
 the MaRDI Packaging System (MAPS), provenance workflows based on DataLad, and guides for organizing research data. Other presentations highlighted the activities of individual INF projects, 
 including SFB 1313, CRC 1625, CRC 1629, TRR 172, and TRR 408, illustrating the diversity of research domains represented in the network. Together, the poster blitz provided a concise overview 
 of the technical expertise, ongoing developments, and common challenges across INF projects in Germany.
+
+2. Parallel Session 1: Tooling Clusters
+
+The first parallel session brought participants together around common technical topics. Each breakout room focused on a specific aspect of research software engineering and research data management, allowing participants to exchange experiences, present tools, and discuss practical challenges across different CRCs and research domains.
+
+ AI Tools for INF Projects
+
+Moderated by Hamza Oukili (University of Stuttgart), this session explored the use of AI technologies within INF projects. Jan Frenzel (TU Dresden) presented the AI Services@TUD infrastructure, demonstrating automated knowledge-base ingestion using GitLab CI/CD pipelines and discussing the transition from small local language models to GPU-based deployments using Apptainer, vLLM, and SLURM. The discussion also covered challenges in adapting AI models to domain-specific applications, where limited training data often requires advanced prompting techniques instead of fine-tuning.
+
+ Electronic Lab Notebooks (ELNs)
+
+Moderated by Neele Drobnitzky (University of Heidelberg), this session focused on the adoption of Electronic Lab Notebooks, particularly eLabFTW and OpenBIS. 
+
+ Container Technologies
+
+Moderated by Aaruni Kaushik (RPTU Kaiserslautern), this breakout session was planned to discuss reproducible software environments, package management, and container technologies, including the MaRDI Packaging System. Due to the small number of participants, the discussion was continued through asynchronous communication channels after the meeting.
+
+ Git, Version Control, and Remote Repositories
+
+Moderated by Florian Goth (University of Würzburg) and Harald von Waldow, 
+
+ Cloud Services and Data Sharing
+
+Moderated by Alvaro Aguilera, this session included presentations on scientific workflows in VIVO and the federated infrastructure developed within PUNCH4NFDI. Discussions emphasized the importance of provenance tracking for reproducible research and addressed the technical challenges associated with transferring and processing very large collections of small metadata files. Participants agreed that moving computation closer to the data can significantly improve performance.
+
+ REDCap
+
+Moderated by Lincoln Sherpa, this session focused on practical experiences with REDCap for research data collection. Participants discussed performance challenges in large longitudinal studies and shared optimization strategies, including more efficient API usage, query filtering, and customized database interfaces.
+
+ Jupyter
+
+This session featured presentations on Jupyter4NFDI Services by Vasundhara Shaw and Jupyter Notebooks: From Lectures to Research by Daniel Appel. Discussions covered resource management within Jupyter4NFDI, integration with external storage systems such as WebDAV and S3, and remaining challenges related to reproducibility, including persistent software environments and secure management of authentication credentials.
+
+ DMPs & SMPs
+
+Moderated by Ron Dockhorn, 
