@@ -47,7 +47,7 @@ Moderated by Neele Drobnitzky (University of Heidelberg), this session focused o
 
  Container Technologies
 
-Moderated by Aaruni Kaushik (RPTU Kaiserslautern), this breakout session was planned to discuss reproducible software environments, package management, and container technologies, including the MaRDI Packaging System. Due to the small number of participants, the discussion was continued through asynchronous communication channels after the meeting.
+Moderated by Aaruni Kaushik (RPTU Kaiserslautern), this breakout session was planned to discuss reproducible software environments, package management, and container technologies, including the MaRDI Packaging System.
 
  Git, Version Control, and Remote Repositories
 
