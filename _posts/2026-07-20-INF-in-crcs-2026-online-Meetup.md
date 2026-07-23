@@ -51,7 +51,7 @@ Moderated by Aaruni Kaushik (RPTU Kaiserslautern), this breakout session was pla
 
  Git, Version Control, and Remote Repositories
 
-Moderated by Florian Goth (University of Würzburg) and Harald von Waldow. We discussed the benefits of [federated gitlab](https://gitlab.com/groups/gitlab-org/-/work_items/16514) for the german research landscape. As a  competitor we discussed [forgejo](https://forgejo.org/) that is also supposed to offer dederation mechanisms in the future.
+Moderated by Florian Goth (University of Würzburg) and Harald von Waldow. We discussed the benefits of [federated gitlab](https://gitlab.com/groups/gitlab-org/-/work_items/16514) for the german research landscape. As a  competitor we discussed [forgejo](https://forgejo.org/) that is also supposed to offer federation mechanisms in the future.
 As an infrastructure building on git-annex we discussed [datalad](https://www.datalad.org/)
  
  Cloud Services and Data Sharing
@@ -80,4 +80,20 @@ focused on handling sensitive patient data under GDPR, knowledge graphs, and com
 software such as DuMux, MuMax, and MATSim, emphasizing that domain-specific repositories such as NOMAD and Kadi4Mat provide richer metadata and search capabilities than general-purpose repositories for many research applications. The Humanities and Linguistics group, moderated by Mercedes 
 Martinez-Bruera, discussed semantic metadata extraction, automation of legal consent forms, and the need for shared repositories of scripts and workflows. Finally, the Biology group explored imaging data management with OMERO and automated metadata extraction from Electronic Lab Notebooks.
 
+4. Parallel Session 3: Regional Clusters
+Eventually we split the participants into the different regions where we determined clusters from the registration data.
+The following Clusters emerged:
+
+Main-Donau area
+
+Baden-Württemberg
+
+Mitteldeutschland
+
+Northern Germany
+
+NRW
+
+5. Fireplace chat
+Finally, we concluded the meet-up with a fireplace chat that we kicked off with an plenary talk by Jeremy Cohen on "Providing effective support for digital research through RDM and RSE: A UK perspective".
 
