@@ -51,8 +51,9 @@ Moderated by Aaruni Kaushik (RPTU Kaiserslautern), this breakout session was pla
 
  Git, Version Control, and Remote Repositories
 
-Moderated by Florian Goth (University of Würzburg) and Harald von Waldow, 
-
+Moderated by Florian Goth (University of Würzburg) and Harald von Waldow. We discussed the benefits of [federated gitlab](https://gitlab.com/groups/gitlab-org/-/work_items/16514) for the german research landscape. As a  competitor we discussed [forgejo](https://forgejo.org/) that is also supposed to offer dederation mechanisms in the future.
+As an infrastructure building on git-annex we discussed [datalad](https://www.datalad.org/)
+ 
  Cloud Services and Data Sharing
 
 Moderated by Alvaro Aguilera, this session included presentations on scientific workflows in VIVO and the federated infrastructure developed within PUNCH4NFDI. Discussions emphasized the importance of provenance tracking for reproducible research and addressed the technical challenges associated with transferring and processing very large collections of small metadata files. Participants agreed that moving computation closer to the data can significantly improve performance.
