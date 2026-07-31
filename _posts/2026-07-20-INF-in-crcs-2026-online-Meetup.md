@@ -43,7 +43,13 @@ Moderated by Hamza Oukili (University of Stuttgart), this session explored the u
 
  Electronic Lab Notebooks (ELNs)
 
-Moderated by Neele Drobnitzky (University of Heidelberg), this session focused on the adoption of Electronic Lab Notebooks, particularly eLabFTW and OpenBIS. 
+Moderated by Neele Drobnitzky (University of Heidelberg), this session discussed the adoption of Electronic Lab Notebooks, with a particular focus on eLabFTW. Around 20 participants joined, representing different subject areas, including biology, physics, and materials science. The session combined a short presentation with questions and an open exchange of experiences, tools, and implementation challenges. It also helped participants discover related work in other groups and identify potential contacts for future advice and collaboration.
+
+The discussion showed that introducing an ELN involves more than choosing a suitable platform. Participants mentioned the learning curve, the need for training in good laboratory record keeping, uncertainty about what information and metadata should be recorded, and the importance of support from principal investigators and group leaders. In eLabFTW, the flexibility of the system can add another difficulty: new users may face a “blank canvas” with little guidance on how to structure entries, organise navigation, or connect related samples, derivatives, experiments, and resources.
+
+The presentation explored shared templates as one way to lower these barriers. Templates can provide guidance for users while also supporting consistent navigation, searches, project organisation, protocols, resources, and data-management information. The SFB 1638 INF team’s template package was presented as an example and as a starting point for community discussion, rather than as a finished or universal solution. Participants showed interest in sharing templates and comparing approaches, even where groups use different workflows.
+
+The question of metadata in experiments remained open and would benefit from further discussion across the participating communities. Participants were invited to continue the exchange in the [DSgG eLabFTW Exchange Matrix chat](https://matrix.to/#/#dsgg-elabftw:academiccloud.de). Other resources mentioned during the session included community-developed tools for [eLabFTW sample tracking](https://github.com/wanghao-github/elab-sample-tracking) and synchronisation ([elab-sync-hub](https://github.com/wanghao-github/elab-sync-hub)), as well as the [SFB 1638 eLabFTW template package](https://github.com/sfb1638/elabftw-templates).
 
  Container Technologies
 
