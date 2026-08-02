@@ -5,9 +5,9 @@ author: "Hamza Oukili, Florian Goth, Neele Drobnitzky, Ron Dockhorn"
 menulang: en
 ---
 
-Following the initial on-site workshop held during the deRSE26 conference in Stuttgart (March 3–5, 2026), the inf-in-CRCs Network organized its first virtual meet-up on Wednesday, June 10, 2026 https://inf-in-crcs-26.sciencesconf.org/.
-The Meet-up served as an information-exchange platform for scientists, Research Software Engineers (RSEs), and Research Data Managers (RDMs) working within Collaborative Research Centers 
-(SFBs/CRCs) across Germany. The event recorded 87 registered participants, with 75 actively attending the initial plenary session. The main objectives were to coordinate activities across 
+Following the initial on-site workshop held during the deRSE26 conference in Stuttgart (March 3–5, 2026), the inf-in-CRCs Network organized its first virtual meet-up on Wednesday, June 10, 2026 [https://inf-in-crcs-26.sciencesconf.org](https://inf-in-crcs-26.sciencesconf.org/).
+The meet-up served as an information-exchange platform for scientists, Research Software Engineers (RSEs), and Research Data Managers (RDMs) working within Collaborative Research Centers 
+(SFBs/CRCs) and Transregio (TRR) across Germany. The event recorded 87 registered participants, with 75 actively attending the initial plenary session. The main objectives were to coordinate activities across 
 different consortia, discuss common technical frameworks, address shared challenges in academic software development and data management, and create opportunities for networking and future 
 collaboration between INF projects.
 
@@ -15,22 +15,22 @@ collaboration between INF projects.
 
 The introductory plenary was divided into general infrastructure reports and a series of rapid-fire technical pitches.
 
-The INF-in-CRCs Network brings together members from several national communities, including de-RSE, Data Stewardship goes Germany (DSgG), and the NFDI. The plenary therefore began with short 
+The INF-in-CRCs Network brings together members from several national communities, including de-RSE, Data Stewardship goes Germany (DSgG), and the German National Research Data Infrastructure (NFDI). The plenary therefore began with short 
 updates from these initiatives to give participants an overview of current developments, available services, and opportunities for collaboration.
 
 National Infrastructure Reports
-de-RSE e.V. Status: Frank Löffler presented the ongoing activities of de-RSE (see Slides https://zenodo.org/records/17047067).
-Data Stewardship Development: Jens Dierkes outlined the current state of Data Stewardship goes Germany (DSgG) and the broader data stewardship community in Germany (see Slides https://cryptpad.fr/file/#/2/file/dcJSUP3aNHUvLiPSMG2arAbK/).
+de-RSE e.V. Status: Frank Löffler presented the ongoing activities of de-RSE (see slides [https://doi.org/10.5281/zenodo.17047067](https://doi.org/10.5281/zenodo.17047067)).
+Data Stewardship Development: Jens Dierkes outlined the current state of Data Stewardship goes Germany (DSgG) and the broader data stewardship community in Germany (see slides on [cryptpad](https://cryptpad.fr/file/#/2/file/dcJSUP3aNHUvLiPSMG2arAbK/)).
 Base4NFDI Services: Bernd Flemisch discussed the integration of Base4NFDI basic services within individual CRC projects, highlighting the upcoming Base4NFDI User Conference scheduled for 
-November 24–25, 2026 (see Slides https://pad.gwdg.de/p/NvXOkX2VpW#/).
+November 24–25, 2026 (see slides on [pad](https://pad.gwdg.de/p/NvXOkX2VpW#)).
 
 Poster Blitz
 
 The poster blitz featured 15 short presentations, each introducing an INF project, research infrastructure, or technical solution from different CRCs, TRRs, and NFDI initiatives. 
 The presentations covered a broad range of topics, including research data management, metadata infrastructures, provenance tracking, AI-assisted RDM, legal compliance, multimodal data 
-integration, scientific visualization, and domain-specific software platforms. Several speakers presented practical tools and services, such as the PUNCH4NFDI platform, 
-the MaRDI Packaging System (MAPS), provenance workflows based on DataLad, and guides for organizing research data. Other presentations highlighted the activities of individual INF projects, 
-including SFB 1313, CRC 1625, CRC 1629, TRR 172, and TRR 408, illustrating the diversity of research domains represented in the network. Together, the poster blitz provided a concise overview 
+integration, scientific visualization, and domain-specific software platforms. Several speakers presented practical tools and services, such as the [PUNCH4NFDI](https://www.punch4nfdi.de/) platform, 
+the [MaRDI](https://www.mardi4nfdi.de) Packaging System ([MAPS](https://portal.mardi4nfdi.de/wiki/Packaging_System)), provenance workflows based on [DataLad](https://www.datalad.org/), and guides for organizing research data. Other presentations highlighted the activities of individual INF projects, 
+including [CRC 1313](https://www.sfb1313.uni-stuttgart.de), [CRC1415](https://tu-dresden.de/mn/chemie/sfb1415), [CRC 1625](https://www.ruhr-uni-bochum.de/crc1625/), [CRC 1629](https://www.neglab.de), [TRR 172](https://www.ac3-tr.de/), and [TRR 408](https://agimo-trr408.com/de/), illustrating the diversity of research domains represented in the network. Together, the poster blitz provided a concise overview 
 of the technical expertise, ongoing developments, and common challenges across INF projects in Germany.
 
 2. Parallel Session 1: Tooling Clusters
@@ -68,32 +68,33 @@ This session featured presentations on Jupyter4NFDI Services by Vasundhara Shaw 
 
  DMPs & SMPs
 
-Moderated by Ron Dockhorn, 
+Moderated by Ron Dockhorn, this session focused on the [implementation and adaption](https://github.com/RDMJeanne/FolderStructure/blob/v1.0/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md) of data and software management plans (DMP&SMP) as part of daily research routines. The discussions centered on applying the [FAIR](https://doi.org/10.1038/sdata.2016.18) and [FAIR4RS](https://doi.org/10.1038/s41597-022-01710-x) principles to research/software data management, templates for [folder structure]( https://doi.org/10.5334/dsj-2025-035) in live science and [using tools](https://doi.org/10.5281/zenodo.20624453) for data provenance and data lineage and on how to change the habit to an open science community.   
 
 3. Parallel Session 2: Domain Clusters
 
-The second parallel session grouped participants by research domain to discuss domain-specific workflows, metadata standards, repositories, and collaboration with the corresponding NFDI consortia. Although many challenges were shared across disciplines, each community highlighted its own 
-requirements and priorities.
+The second parallel session grouped participants by research domain to discuss domain-specific workflows, metadata standards, repositories, and collaboration with the corresponding NFDI consortia. Although many challenges were shared across disciplines, each community highlighted its own requirements and priorities.
 
 The Physics group, moderated by Florian Goth, discussed custom simulation software, engineering models, and the integration of Electronic Lab Notebooks, while also reviewing previous NFDI Physical Sciences workshops. In Medicine and Psychology, moderated by Alvaro Aguilera, the discussion 
 focused on handling sensitive patient data under GDPR, knowledge graphs, and commonly used platforms such as REDCap, Neurocloud, Dataverse, OMERO, SODAR, and GraphDB. The Materials Science, Geosciences, and Engineering group, moderated by Hamza Oukili, exchanged experiences with scientific 
 software such as DuMux, MuMax, and MATSim, emphasizing that domain-specific repositories such as NOMAD and Kadi4Mat provide richer metadata and search capabilities than general-purpose repositories for many research applications. The Humanities and Linguistics group, moderated by Mercedes 
-Martinez-Bruera, discussed semantic metadata extraction, automation of legal consent forms, and the need for shared repositories of scripts and workflows. Finally, the Biology group explored imaging data management with OMERO and automated metadata extraction from Electronic Lab Notebooks.
+Martinez-Bruera, discussed semantic metadata extraction, automation of legal consent forms, and the need for shared repositories of scripts and workflows. Finally, the Biology group explored imaging data management with OMERO and automated metadata extraction from Electronic Lab Notebooks. The Chemistry session, moderated by Ron Dockhorn, emphasized the usage of open source Electronic Lab Notebooks such as [Chemotion](https://chemotion.net/) and [eLabFTW](https://www.elabftw.net/) to document experiments and report standard operating procedures.
 
-4. Parallel Session 3: Regional Clusters
+4. Parallel Session 3: Regional Clusters  
+
 Eventually we split the participants into the different regions where we determined clusters from the registration data.
 The following Clusters emerged:
 
-Main-Donau area
+- Main-Donau area (Bavaria, Hessen)
+- Baden-Württemberg
+- Mitteldeutschland (Sachsen, Thüringen, Sachsen-Anhalt)
+- Northern Germany (Schleswig-Holstein, Hamburg, Bremen, Mecklenburg-Vorpommern, Niedersachsen, Brandenburg, Berlin)
+- NRW and beyond (Nordrhein-Westfalen, Rheinland-Pfalz, Saarland)
 
-Baden-Württemberg
+5. Fireplace chat  
 
-Mitteldeutschland
-
-Northern Germany
-
-NRW
-
-5. Fireplace chat
 Finally, we concluded the meet-up with a fireplace chat that we kicked off with an plenary talk by Jeremy Cohen on "Providing effective support for digital research through RDM and RSE: A UK perspective".
+
+6. Resources  
+
+We created a Zenodo community for "INF-Projects-in-CRCs", see [https://zenodo.org/communities/inf-projects-in-crcs](https://zenodo.org/communities/inf-projects-in-crcs) for uploading the meet-up material. 
 
