@@ -14,14 +14,14 @@ The main objectives were to coordinate activities across different consortia, di
 
 The introductory plenary was divided into general infrastructure reports and a series of rapid-fire technical pitches.
 
-The INF-in-CRCs network brings together members from several national communities, including [https://de-rse.org/en/](de-RSE), Data Stewardship goes Germany ([https://fdm.uni-koeln.de/dsgg26](DSgG)), and the German National Research Data Infrastructure ([https://www.nfdi.de/](NFDI)).
+The INF-in-CRCs network brings together members from several national communities, including [de-RSE](https://de-rse.org/en/), Data Stewardship goes Germany ([DSgG](https://fdm.uni-koeln.de/dsgg26)), and the German National Research Data Infrastructure ([NFDI](https://www.nfdi.de/)).
 The plenary therefore began with short updates from these initiatives to give participants an overview of current developments, available services, and opportunities for collaboration.
 
 National Infrastructure Reports
 de-RSE e.V. status: Frank Löffler presented the ongoing activities of de-RSE (see slides [https://doi.org/10.5281/zenodo.17047067](https://doi.org/10.5281/zenodo.17047067)).
 Data Stewardship Development: Jens Dierkes outlined the current state of Data Stewardship goes Germany (DSgG) and the broader data stewardship community in Germany (see slides on [cryptpad](https://cryptpad.fr/file/#/2/file/dcJSUP3aNHUvLiPSMG2arAbK/)).
-Base4NFDI Services: Bernd Flemisch discussed the integration of [https://base4nfdi.de/](Base4NFDI) basic services within individual CRC projects,
-highlighting the upcoming [https://base4nfdi.de/news-events/events/user-conference-2026](Base4NFDI User Conference) scheduled for November 24–25, 2026 (see slides on [pad](https://pad.gwdg.de/p/NvXOkX2VpW#)).
+Base4NFDI Services: Bernd Flemisch discussed the integration of [Base4NFDI](https://base4nfdi.de/) basic services within individual CRC projects,
+highlighting the upcoming [Base4NFDI User Conference](https://base4nfdi.de/news-events/events/user-conference-2026) scheduled for November 24–25, 2026 (see slides on [pad](https://pad.gwdg.de/p/NvXOkX2VpW#)).
 
 Poster Blitz
 
