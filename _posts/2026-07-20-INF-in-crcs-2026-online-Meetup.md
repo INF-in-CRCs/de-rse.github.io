@@ -7,31 +7,30 @@ menulang: en
 
 Following the initial on-site workshop held during the deRSE26 conference in Stuttgart (March 3–5, 2026), the inf-in-CRCs Network organized its first virtual meet-up on Wednesday, June 10, 2026 [https://inf-in-crcs-26.sciencesconf.org](https://inf-in-crcs-26.sciencesconf.org/).
 The meet-up served as an information-exchange platform for scientists, Research Software Engineers (RSEs), and Research Data Managers (RDMs) working within Collaborative Research Centers 
-(SFBs/CRCs) and Transregio (TRR) across Germany. The event recorded 87 registered participants, with 75 actively attending the initial plenary session. The main objectives were to coordinate activities across 
-different consortia, discuss common technical frameworks, address shared challenges in academic software development and data management, and create opportunities for networking and future 
-collaboration between INF projects.
+(SFBs/CRCs) and Transregios (TRR) across Germany. The event recorded 87 registered participants, with 75 actively attending the initial plenary session.
+The main objectives were to coordinate activities across different consortia, discuss common technical frameworks, address shared challenges in academic software development and data management, and create opportunities for networking and future collaboration between INF projects.
 
 1. Plenary Sessions: National Frameworks and Poster Presentations
 
 The introductory plenary was divided into general infrastructure reports and a series of rapid-fire technical pitches.
 
-The INF-in-CRCs Network brings together members from several national communities, including de-RSE, Data Stewardship goes Germany (DSgG), and the German National Research Data Infrastructure (NFDI). The plenary therefore began with short 
-updates from these initiatives to give participants an overview of current developments, available services, and opportunities for collaboration.
+The INF-in-CRCs network brings together members from several national communities, including [https://de-rse.org/en/](de-RSE), Data Stewardship goes Germany ([https://fdm.uni-koeln.de/dsgg26](DSgG)), and the German National Research Data Infrastructure ([https://www.nfdi.de/](NFDI)).
+The plenary therefore began with short updates from these initiatives to give participants an overview of current developments, available services, and opportunities for collaboration.
 
 National Infrastructure Reports
-de-RSE e.V. Status: Frank Löffler presented the ongoing activities of de-RSE (see slides [https://doi.org/10.5281/zenodo.17047067](https://doi.org/10.5281/zenodo.17047067)).
+de-RSE e.V. status: Frank Löffler presented the ongoing activities of de-RSE (see slides [https://doi.org/10.5281/zenodo.17047067](https://doi.org/10.5281/zenodo.17047067)).
 Data Stewardship Development: Jens Dierkes outlined the current state of Data Stewardship goes Germany (DSgG) and the broader data stewardship community in Germany (see slides on [cryptpad](https://cryptpad.fr/file/#/2/file/dcJSUP3aNHUvLiPSMG2arAbK/)).
-Base4NFDI Services: Bernd Flemisch discussed the integration of Base4NFDI basic services within individual CRC projects, highlighting the upcoming Base4NFDI User Conference scheduled for 
-November 24–25, 2026 (see slides on [pad](https://pad.gwdg.de/p/NvXOkX2VpW#)).
+Base4NFDI Services: Bernd Flemisch discussed the integration of [https://base4nfdi.de/](Base4NFDI) basic services within individual CRC projects,
+highlighting the upcoming [https://base4nfdi.de/news-events/events/user-conference-2026](Base4NFDI User Conference) scheduled for November 24–25, 2026 (see slides on [pad](https://pad.gwdg.de/p/NvXOkX2VpW#)).
 
 Poster Blitz
 
 The poster blitz featured 15 short presentations, each introducing an INF project, research infrastructure, or technical solution from different CRCs, TRRs, and NFDI initiatives. 
-The presentations covered a broad range of topics, including research data management, metadata infrastructures, provenance tracking, AI-assisted RDM, legal compliance, multimodal data 
-integration, scientific visualization, and domain-specific software platforms. Several speakers presented practical tools and services, such as the [PUNCH4NFDI](https://www.punch4nfdi.de/) platform, 
+The presentations covered a broad range of topics, including research data management, metadata infrastructures, provenance tracking, AI-assisted research data management (RDM), legal compliance, multimodal data integration, scientific visualization, and domain-specific software platforms.
+Several speakers presented practical tools and services, such as the [PUNCH4NFDI](https://www.punch4nfdi.de/) platform, 
 the [MaRDI](https://www.mardi4nfdi.de) Packaging System ([MAPS](https://portal.mardi4nfdi.de/wiki/Packaging_System)), provenance workflows based on [DataLad](https://www.datalad.org/), and guides for organizing research data. Other presentations highlighted the activities of individual INF projects, 
-including [CRC 1313](https://www.sfb1313.uni-stuttgart.de), [CRC1415](https://tu-dresden.de/mn/chemie/sfb1415), [CRC 1625](https://www.ruhr-uni-bochum.de/crc1625/), [CRC 1629](https://www.neglab.de), [TRR 172](https://www.ac3-tr.de/), and [TRR 408](https://agimo-trr408.com/de/), illustrating the diversity of research domains represented in the network. Together, the poster blitz provided a concise overview 
-of the technical expertise, ongoing developments, and common challenges across INF projects in Germany.
+including [CRC 1313](https://www.sfb1313.uni-stuttgart.de), [CRC1415](https://tu-dresden.de/mn/chemie/sfb1415), [CRC 1625](https://www.ruhr-uni-bochum.de/crc1625/), [CRC 1629](https://www.neglab.de), [TRR 172](https://www.ac3-tr.de/), and [TRR 408](https://agimo-trr408.com/de/), illustrating the diversity of research domains represented in the network.
+Together, the poster blitz provided a concise overview of the technical expertise, ongoing developments, and common challenges across INF projects in Germany.
 
 2. Parallel Session 1: Tooling Clusters
 
