@@ -57,8 +57,8 @@ Moderated by Aaruni Kaushik (RPTU Kaiserslautern), this breakout session was pla
 
 ### Git, Version Control, and Remote Repositories
 
-Moderated by Florian Goth (University of Würzburg) and Harald von Waldow, the session discussed the benefits of [federated gitlab](https://gitlab.com/groups/gitlab-org/-/work_items/16514) for the german research landscape. As a competitor we discussed [forgejo](https://forgejo.org/) that is also supposed to offer federation mechanisms in the future.
-As an infrastructure building on git-annex we discussed [datalad](https://www.datalad.org/)
+Moderated by Florian Goth (University of Würzburg) and Harald von Waldow, the session discussed the benefits of [federated Gitlab](https://gitlab.com/groups/gitlab-org/-/work_items/16514) for the German research landscape. As a competitor we discussed [Forgejo](https://forgejo.org/) that is also supposed to offer federation mechanisms in the future.
+As an infrastructure building on git-annex we discussed [DataLad](https://www.datalad.org/).
  
 ### Cloud Services and Data Sharing
 
@@ -74,7 +74,7 @@ This session featured presentations on Jupyter4NFDI Services by Vasundhara Shaw 
 
 ### DMPs & SMPs
 
-Moderated by Ron Dockhorn, this session focused on the [implementation and adaptation](https://github.com/RDMJeanne/FolderStructure/blob/v1.0/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md) of data and software management plans (DMP&SMP) as part of daily research routines. The discussions centered on applying the [FAIR](https://doi.org/10.1038/sdata.2016.18) and [FAIR4RS](https://doi.org/10.1038/s41597-022-01710-x) principles to research/software data management, templates for [folder structure]( https://doi.org/10.5334/dsj-2025-035) in live sciences and [using tools](https://doi.org/10.5281/zenodo.20624453) for data provenance and data lineage and on how to change the habit to an open science community.   
+Moderated by Ron Dockhorn, this session focused on the [implementation and adaptation](https://github.com/RDMJeanne/FolderStructure/blob/v1.0/PhD/01_Documents/02_Administrative/01_DMP/G_DMP_README.md) of data and software management plans (DMP&SMP) as part of daily research routines. The discussions centered on applying the [FAIR](https://doi.org/10.1038/sdata.2016.18) and [FAIR4RS](https://doi.org/10.1038/s41597-022-01710-x) principles to research/software data management, templates for [folder structure](https://doi.org/10.5334/dsj-2025-035) in life sciences and [using tools](https://doi.org/10.5281/zenodo.20624453) for data provenance and data lineage and on how to change the habit to an open science community.   
 
 ## 3. Parallel Session 2: Domain Clusters
 
